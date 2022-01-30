@@ -5,3 +5,10 @@ El proyecto consiste en una estación de paletizado que esta ubicada al final de
 - Librerias
 - Telegram
 - Imagenes
+## Requisitos
+
+## Librerias
+
+## Telegram
+
+## Imagenes
