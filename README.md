@@ -14,5 +14,5 @@ El proyecto consiste en una estación de paletizado que esta ubicada al final de
 - robodk
 - robolink
 ## Telegram
-[Bot-API](https://core.telegram.org/#bot-api)
+Para el monitoreo desde la aplicacion de Telegram se uso [Bot API](https://core.telegram.org/#bot-api) el cual permite crear un Bot de telegram que puede ser programado con diferentes funciones desde muchas plataformas, en esta ocacion se uso python con la libreria [Python-Telegram-Bot](https://github.com/python-telegram-bot/python-telegram-bot) 
 ## Imagenes
