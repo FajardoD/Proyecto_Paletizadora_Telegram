@@ -17,5 +17,6 @@ El proyecto consiste en una estación de paletizado que esta ubicada al final de
 Para el monitoreo desde la aplicación de Telegram se usó [Bot API](https://core.telegram.org/#bot-api) el cual permite crear un Bot de Telegram que puede ser programado con diferentes funciones desde muchas plataforma, en esta ocasión se usó Python con la librería [Python-Telegram-Bot](https://github.com/python-telegram-bot/python-telegram-bot).
 ## Imagenes
 ![Proyecto_1](https://user-images.githubusercontent.com/85042038/151731876-fac04b4f-8dc3-4991-8348-380ca215ef80.png)
+Se muestra la conexión establecida con Telegram y Robot DK
 ![Proyecto_4](https://user-images.githubusercontent.com/85042038/151731880-f80f094c-1753-47b0-8fac-a020758ebdfd.png)
 ![Proyecto_3](https://user-images.githubusercontent.com/85042038/151731933-61c53db0-e16f-4c6c-b8ef-a163f8969192.png)
